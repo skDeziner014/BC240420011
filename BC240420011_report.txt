@@ -1,0 +1,10 @@
+
+--- Task Processing Report ---
+Student ID: BC240420011
+Task 1: 5 units
+Task 2: 8 units
+Task 3: 3 units
+Total Execution Time: 16 units
+Longest Task: Task 2
+Maximum Execution Time: 8 units
+Report saved to: BC240420011_report.txt
